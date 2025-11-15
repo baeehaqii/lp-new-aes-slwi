@@ -358,8 +358,8 @@ export default function Properties() {
     {
       id: 2,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969898/Aes40-1_rcrg7f.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969901/Aes40-2_vjapjg.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459203/Screenshot_2025-10-26_at_13.08.16_gzooxc.avif",
       name: "Tipe 40/84",
@@ -374,8 +374,8 @@ export default function Properties() {
     {
       id: 3,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969903/Aes46-1_oerdu9.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969902/Aes46-2_mu9oyx.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459203/Screenshot_2025-10-26_at_13.08.22_zr7f9k.avif",
       name: "Tipe 46/84",
@@ -390,8 +390,8 @@ export default function Properties() {
     {
       id: 4,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969903/Aes47-1_icl57l.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969903/Aes47-2_rwoocn.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459203/Screenshot_2025-10-26_at_13.08.29_n2u3t0.avif",
       name: "Tipe 47/84 V1",
@@ -406,8 +406,8 @@ export default function Properties() {
     {
       id: 5,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969903/Aes47-1_icl57l.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969903/Aes47-2_rwoocn.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459203/Screenshot_2025-10-26_at_13.08.36_hykvxo.avif",
       name: "Tipe 47/84 V2",
@@ -422,8 +422,8 @@ export default function Properties() {
     {
       id: 6,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969904/Aes50-2_kzmhst.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969903/Aes50-1_rw58xa.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459203/Screenshot_2025-10-26_at_13.08.43_k6gwzs.avif",
       name: "Tipe 50/84",
@@ -438,8 +438,8 @@ export default function Properties() {
     {
       id: 7,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969904/Aes52-1_s6e2se.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969908/Aes52-2_lveic9.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459204/Screenshot_2025-10-26_at_13.08.49_fwi5rq.avif",
       name: "Tipe 52/84",
@@ -454,8 +454,8 @@ export default function Properties() {
     {
       id: 8,
       images: [
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
-        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969933/Aesstudio-1_y0ayqd.avif",
+        "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762970069/Aesstudio-2_zrrcz2.avif",
       ],
       floorPlan: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1761459204/Screenshot_2025-10-26_at_13.08.58_k5la7e.avif",
       name: "Tipe Studio 22/84",
@@ -810,7 +810,7 @@ export default function Properties() {
           <div className="specifications-container">
             <div className="specifications-image">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762969904/Aes52-1_s6e2se.avif"
                 alt="Spesifikasi Rumah"
                 width={600}
                 height={800}
@@ -1075,9 +1075,6 @@ export default function Properties() {
                         </div>
                       </div>
                     </div>
-
-                    <h3 className="modal-subtitle">Harga</h3>
-                    <div className="modal-price">Rp {selectedProperty.price}</div>
 
                     <div className="modal-cta">
                       <Link

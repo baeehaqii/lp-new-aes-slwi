@@ -5,7 +5,7 @@ import About from "@/components/about"
 import Properties from "@/components/properti"
 import Features from "@/components/features"
 import Gallery from "@/components/gallery"
-import YouTube from "@/components/youtube"
+// import YouTube from "@/components/youtube"
 import Testimonials from "@/components/testimoni"
 import FAQ from "@/components/faq"
 import CallToAction from "@/components/cta"
@@ -17,7 +17,7 @@ import { Analytics } from "@vercel/analytics/next"
 export default function HomePage() {
   return (
     <main>
-      <Analytics/>
+      <Analytics />
       <Header />
       <Hero />
       <About />
@@ -26,7 +26,7 @@ export default function HomePage() {
       <Features />
       <Concepts />
       <Gallery />
-      <YouTube />
+      {/* <YouTube /> */}
       <Testimonials />
       <FAQ />
       <CallToAction />

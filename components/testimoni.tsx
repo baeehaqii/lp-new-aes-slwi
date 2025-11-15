@@ -17,21 +17,21 @@ export default function Testimonials() {
     const testimonials: Testimonial[] = [
         {
             id: 1,
-            name: "Ibu Rossie",
-            location: "Tegal, Indonesia",
-            image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1755435664/Screenshot_2025-08-17_at_19-59-13_Sapphire_Griya_Modern_Official_Perumahan_Tegal_Slawi_Brebes_sapphiregriyamodern_Instagram_photos_and_videos_t4hycn.png",
+            name: "Rakajaya",
+            location: "Pengguna Sapphire",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762656135/download_cszbzm.png",
             rating: 5,
-            text: "Saya sangat senang dengan pengalaman membeli rumah di Sapphire Tegal. Tim marketing sangat membantu dan ramah. Prosesnya cepat dan mudah. Saya merasa sangat puas dengan rumah yang saya beli. Terima kasih Sapphire Grup!",
+            text: "Lokasinya deket pusat kota, kawasannya rapi dan tertata, rumah yang terbangun sudah cukup banyak, sudah ada beberapa yang ditempati juga. Keamanan 24 jam, viewnya langsung ke atap Jawa Tengah alias Gunung Slamet.",
         },
         {
             id: 2,
-            name: "Bapak Handy",
-            location: "Tegal, Indonesia",
-            image: "https://res.cloudinary.com/dqobwse9q/image/upload/v1755435663/Screenshot_2025-08-17_at_20-00-42_Sapphire_Griya_Modern_Official_Perumahan_Tegal_Slawi_Brebes_sapphiregriyamodern_Instagram_photos_and_videos_ybu2pd.png",
+            name: "Santoso R.",
+            location: "Pengguna Sapphire",
+            image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762656135/download_cszbzm.png",
             rating: 5,
-            text: "Saya sangat puas dengan pelayanan Sapphire di Tegal. Tim marketing sangat profesional dan membantu saya menemukan rumah yang sesuai dengan kebutuhan keluarga. Lokasi perumahan juga strategis banget. Terima kasih Sapphire Griya Modern!",
+            text: "Rumah dengan desain yang menarik dan paling suka dengan view Gunung Slamet di pagi hari bikin suasana teduh dan nyaman. Sukses selalu Sapphire dan jangan berhenti menyediakan rumah yang nyaman dan kekinian.",
         },
-        
+
     ]
 
     const [currentIndex, setCurrentIndex] = useState(0)

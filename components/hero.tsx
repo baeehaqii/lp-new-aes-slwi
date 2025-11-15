@@ -17,18 +17,18 @@ export default function Hero() {
 
   const heroSlides = [
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_3_-_Photo_C_fx2gkg.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762970069/Aesstudio-2_zrrcz2.avif",
       title: "Tinggal Dekat Segalanya",
       description:
         "Mulai hari tanpa terburu-buru karena semua ada di sekitar Anda.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969904/Aes52-1_s6e2se.avif",
       title: "Gerak Cepat, Hidup Lebih Ringan",
       description: "Ke kantor, sekolah, atau pusat kota dalam hitungan menit saja.",
     },
     {
-      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif",
+      image: "https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1762969902/Aes46-2_mu9oyx.avif",
       title: "Lokasi yang Mendukung Ritme Hidup Anda",
       description: "Membuat setiap aktivitas terasa lebih efisien.",
     },

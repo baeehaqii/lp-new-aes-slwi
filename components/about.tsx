@@ -27,7 +27,7 @@ export default function About() {
             {/* Container gambar */}
             <div className="about-image-container">
               <Image
-                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_1_-_Photo_A_hk1v2d.avif"
+                src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762970069/Aesstudio-2_zrrcz2.avif"
                 alt="Sapphire Aesthetic Slawi"
                 width={600}
                 height={450}
@@ -42,7 +42,7 @@ export default function About() {
             <div className="about-content">
               <h2 className="about-title">Sapphire Aesthetic Slawi</h2>
               <p className="about-description">
-                Berada di Jl. Merapi, Dukuhwringin, Kec. Slawi, Kab. Tegal, Sapphire Aesthetic Slawi menghadirkan hunian yang menyatu dengan pusat aktivitas Kota Slawi. Lokasinya dekat Alun-alun Hanggawana, kantor pemerintahan, sekolah, serta berbagai fasilitas penting yang mendukung mobilitas harian. 
+                Berada di Jl. Merapi, Dukuhwringin, Kec. Slawi, Kab. Tegal, Sapphire Aesthetic Slawi menghadirkan hunian yang menyatu dengan pusat aktivitas Kota Slawi. Lokasinya dekat Alun-alun Hanggawana, kantor pemerintahan, sekolah, serta berbagai fasilitas penting yang mendukung mobilitas harian.
               </p>
               <div>
                 {/* Ubah Link menjadi button untuk membuka modal */}
@@ -59,22 +59,22 @@ export default function About() {
 
           {/* Container statistik */}
           <div className="about-stats-grid">
-            {/* Statistik - Projects Completed */}
+            {/* Statistik - Best Location */}
             <div className="about-stat-card">
-              <div className="about-stat-value">1</div>
-              <div className="about-stat-label">Perumahan Terbaik di Tegal</div>
+              <div className="about-stat-value">5</div>
+              <div className="about-stat-label">Lokasi Terbaik di Jawa Bagian Utara</div>
             </div>
 
-            {/* Statistik - Awards */}
+            {/* Statistik - Happy Families */}
             <div className="about-stat-card">
-              <div className="about-stat-value">10000+</div>
+              <div className="about-stat-value">10.000+</div>
               <div className="about-stat-label">Keluarga Sapphire</div>
             </div>
 
-            {/* Statistik - Satisfied Clients */}
+            {/* Statistik - Featured Projects */}
             <div className="about-stat-card">
-              <div className="about-stat-value">5+</div>
-              <div className="about-stat-label">CCTV Kawasan</div>
+              <div className="about-stat-value">8</div>
+              <div className="about-stat-label">Proyek Unggulan</div>
             </div>
 
             {/* Statistik - Years of Experience */}
@@ -97,7 +97,7 @@ export default function About() {
               <h2 className="modal-title">Sapphire Aesthetic Slawi</h2>
               <div className="modal-image">
                 <Image
-                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/w_800,h_450,c_fill,f_auto,q_40/v1761458310/01_2_-_Photo_B_mumjol.avif"
+                  src="https://res.cloudinary.com/dx8w9qwl6/image/upload/v1762969904/Aes52-1_s6e2se.avif"
                   alt="Sapphire Aesthetic Slawi"
                   width={700}
                   height={400}
