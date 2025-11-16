@@ -111,7 +111,7 @@ export default function About() {
 
                 <h3 className="modal-subtitle">Keunggulan Lokasi</h3>
                 <ul className="modal-list">
-                  <li>5 menit ke fasilitas kesehatan</li>
+                  <li>5 menit ke fasilitas kesehatan.</li>
                   <li>2 menit ke fasilitas pendidikan</li>
                   <li>7 menit ke fasilitas perbelanjaan</li>
                   <li>2 menit dari pusat kota</li>
